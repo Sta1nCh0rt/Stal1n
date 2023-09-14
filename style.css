@@ -1,0 +1,26 @@
+body{
+    font-size: 30px;
+}
+table.iksweb{
+	border-collapse:collapse;
+	border-spacing:0;
+}
+table.iksweb,table.iksweb td, table.iksweb th {
+	border: 1px solid #595959;
+}
+table.iksweb td,table.iksweb th {
+	padding: 10px;
+}
+table.iksweb th {
+	background: #347c99; 
+	color: #fff; 
+	font-weight: normal;
+}
+.name{
+    color: red;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.school{
+    text-decoration: underline;
+}
