@@ -1,26 +1,38 @@
 body{
-    font-size: 30px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtSVql_jB5BUh_QttWwHIIpgItAwMvOnmaA&usqp=CAU);
+    width: 100%;
 }
-table.iksweb{
-	border-collapse:collapse;
-	border-spacing:0;
+.all{
+    border: 3px solid pink;
+    border-radius: 10px;
+    padding: 20px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
 }
-table.iksweb,table.iksweb td, table.iksweb th {
-	border: 1px solid #595959;
+h1{
+    color: blueviolet;
 }
-table.iksweb td,table.iksweb th {
-	padding: 10px;
+.text1{
+    color: rgb(241, 77, 104);
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
-table.iksweb th {
-	background: #347c99; 
-	color: #fff; 
-	font-weight: normal;
-}
-.name{
-    color: red;
-    font-weight: bolder;
-    font-size: 50px;
-}
-.school{
+.text2{
     text-decoration: underline;
+    text-transform: uppercase;
+    color: rgb(47, 0, 255);
 }
+.text3{
+    color: rgb(0, 116, 116);
+}
+h2{
+    color: blueviolet;
+
+}
+a{
+    margin: 750px;
+}
+
+
